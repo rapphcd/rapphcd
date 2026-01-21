@@ -7,7 +7,7 @@
 ###
 
 
-<h2 align="left">About me 📌</h2>
+<h2 align="center">About me 📌</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">My Skills ⌨️</h2>
+<h2 align="center">My Skills ⌨️</h2>
 
 ###
 
