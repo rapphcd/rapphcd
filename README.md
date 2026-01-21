@@ -42,14 +42,16 @@
 ###
 
 <h2 align="center">My Projects 📦</h2>
-<p align="center" style="font-size: 12px">Projects aren't representative of my skills.</p>
+<p align="center" style="font-size: 12px">Public projects aren't representative of my skills.</p>
 
 ###
 
 <p align="center" style="font-size: 20px">
 <a href="https://github.com/rapphcd/ExaBot">🚀 ExaBot</a>
 <br/>
+<br/>
 <a href="https://github.com/rapphcd/ExaTickets">🎫 ExaTickets</a>
+<br/>
 <br/>
 <a href="https://github.com/rapphcd/Notes-PHP">📃 Notes PHP</a>
 </p>
