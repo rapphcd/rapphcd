@@ -47,6 +47,9 @@
 ###
 
 <p align="center" style="font-size: 20px">
+<a href="https://github.com/rapphcd/Favourites-HomePage">⭐ Favourites Homepage</a>
+<br/>
+<br/>
 <a href="https://github.com/rapphcd/ExaBot">🚀 ExaBot</a>
 <br/>
 <br/>
