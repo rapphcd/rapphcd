@@ -57,6 +57,9 @@
 <br/>
 <br/>
 <a href="https://github.com/rapphcd/Notes-PHP">📃 Notes PHP</a>
+<br/>
+<br/>
+<a href="https://github.com/rapphcd/obsidian-vault-cleaner">🧹 Vault Cleaner</a>
 </p>
 
 ###
