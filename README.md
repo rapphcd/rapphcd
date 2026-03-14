@@ -52,7 +52,7 @@
 
 <ul style="font-size: 20px; list-style-type: '- '">
 <li>
-<a href="https://github.com/rapphcd/PokeClicker">PokéClicker</a> - A small clicker game built in React with PokeAPI and 8bitcn.
+<a href="https://github.com/rapphcd/PokeTap">PokéTap</a> - A small clicker game built in React with PokeAPI and 8bitcn.
 </li>
 <li>
 <a href="https://github.com/rapphcd/Favourites-HomePage">Favourites Homepage</a> - You perfect browser homepage with meteo, date and all your favourites.
