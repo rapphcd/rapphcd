@@ -25,23 +25,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="50" alt="discordjs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="50" alt="discordjs logo"  />
 </div>
 
 ###
@@ -52,16 +52,16 @@
 
 <ul style="font-size: 20px; list-style-type: '- '">
 <li>
-<a href="https://github.com/rapphcd/PokeTap">PokéTap</a> - A small clicker game built in React with PokeAPI and 8bitcn.
+<a href="https://github.com/rapphcd/PokeClicker">PokéClicker</a> - A small clicker game built in React with PokeAPI and 8bitcn. 🕹️
 </li>
 <li>
-<a href="https://github.com/rapphcd/Favourites-HomePage">Favourites Homepage</a> - You perfect browser homepage with meteo, date and all your favourites.
+<a href="https://github.com/rapphcd/daily-tracker">DailyTracker</a> - Habit tracking and daily statistics directly in Obsidian. 📊
 </li>
 <li>
-<a href="https://github.com/rapphcd/obsidian-vault-cleaner">Vault Cleaner</a> - A light Obsidian plugin to clean your vault.
+<a href="https://github.com/rapphcd/Favourites-HomePage">Favourites Homepage</a> - You perfect browser homepage with meteo, date and all your favourites. ⭐️
 </li>
 <li>
-<a href="https://github.com/rapphcd/Notes-PHP">Notes PHP</a> - Simple note-taking app made to learn php.
+<a href="https://github.com/rapphcd/obsidian-vault-cleaner">Vault Cleaner</a> - A light Obsidian plugin to clean your vault. 🧹
 </li>
 </ul>
 
@@ -76,7 +76,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=rapphcd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=rapphcd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
