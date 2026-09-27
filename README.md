@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hey !</h1>
+<h1>👋 Hey !</h1>
 
 ###
 
-<p align="center" style="font-size: 17px">I'm Raph, a French student/beginner developer. I'm interested in new technologies and development. 🚀<br>Actually I am studying but I already work on some fun and useful projects ! 📌</p>
+<p style="font-size: 17px">I'm Raph, a French student/beginner developer. I'm interested in new technologies and development. 🚀<br>Actually I am studying but I already work on some fun and useful projects ! 📌</p>
 
 ###
-
 
 <h2>About me 📌</h2>
 
@@ -14,7 +13,7 @@
 <ul style="list-style-type: '- ' ">
 <li>Coding since 2022</li>
 <li>Actively coding since 2025</li>
-<li>I'm currently learning React</li>
+<li>Currently learning React</li>
 <li>Enjoying music</li>
 </ul>
 
@@ -80,4 +79,13 @@
 </div>
 
 ###
+
+<h2>Support Me ❤️</h2>
+
+###
+
+<a href="https://www.buymeacoffee.com/rapphcd">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+
 
