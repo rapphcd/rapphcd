@@ -78,3 +78,10 @@
 <img src="https://streak-stats.demolab.com?user=rapphcd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
+
+<h2>Support ❤️</h2>
+
+<a href="https://www.buymeacoffee.com/rapphcd">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
